@@ -10,8 +10,7 @@
 	<name>maven-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
-
-	<organization>
+         m nbb<organization>
 		<name>Landmark Technologies</name>
 		<url>http://landmarktechnologies.com/</url>
 	</organization>
@@ -150,5 +149,4 @@
 </plugins>
 	</build>
 	
-	
-</project>
+	</project>
